@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.product {
+    background-image: url("assets/images/pexels-matheus-bertelli-16652367.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+    
+
+}
+
+.product-title {
+    width: 70%;
+    text-align: center;
+    padding: 150px 0;
+    margin: auto;
+    color: black;
+}
+.product-title>h2 {
+    font-size: 3rem;
+    padding: 20px 0;
+}
+.product-title>p{
+    font-size: 1rem;
+    padding: 5px;
+}
+
